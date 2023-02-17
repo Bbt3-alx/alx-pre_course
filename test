@@ -1,0 +1,7 @@
+#!/bin/bash
+vari=7
+if [[ $vari -eq 7 ]]; then
+	echo "Le varie est egale a 5"
+else
+	echo "Le vari n'est pas egal a 5"
+fi

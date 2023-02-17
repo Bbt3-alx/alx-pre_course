@@ -1,0 +1,4 @@
+#!/bin/bash
+a3
+b7
+echo "La somme $((a+b))"
